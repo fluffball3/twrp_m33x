@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/samsung/m33x/device.mk)
 
 PRODUCT_DEVICE := m33x
-PRODUCT_NAME := omni_m33x
+PRODUCT_NAME := twrp_m33x
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-M336BU
 PRODUCT_MANUFACTURER := samsung
